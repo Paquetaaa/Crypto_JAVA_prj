@@ -1,4 +1,4 @@
-Grenèche Lucas et Mazabrard Gabriel
+
 Projet de Crypto
 =====
 
